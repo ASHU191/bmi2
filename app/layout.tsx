@@ -13,7 +13,10 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "BMI Interior - Premium Interior Design Solutions",
   description: "Professional interior design services for residential and commercial spaces.",
-    generator: 'Muhammad ARsalan'
+  generator: "Muhammad Arsalan",
+  icons: {
+    icon: "/favicon-32x32.png",
+  },
 }
 
 export default function RootLayout({
@@ -36,7 +39,3 @@ export default function RootLayout({
     </html>
   )
 }
-
-
-
-import './globals.css'
