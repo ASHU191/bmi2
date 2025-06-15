@@ -11,7 +11,7 @@ const ClientLogoSlider = () => {
     { name: "Al Burooj Real Estate", logo: "/Our Clients/Our Clients/Al Burooj Real Estate.jpg" },
     { name: "Arthur Mckenzie", logo: "/Our Clients/Our Clients/Arthur Mckenzie.jpg" },
     { name: "AVA", logo: "/Our Clients/Our Clients/AVA.png" },
-    { name: "Baza Car Wash & Detailing", logo: "/Our Clients/Our Clients/Baza Car Wash & Detailing.jpg" },
+    { name: "Baza Car Wash & Detailing", logo: "/Our Clients/Our Clients/Baza Car Wash & Detailing.png" },
     { name: "Beauty Blender Salon", logo: "/Our Clients/Our Clients/Beauty Blender Salon.jpg" },
     { name: "Brooks Real Estate", logo: "/Our Clients/Our Clients/Brooks Real Estate.png" },
     { name: "Chopper Shoot", logo: "/Our Clients/Our Clients/Chopper shoot.png" },
